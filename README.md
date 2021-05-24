@@ -66,7 +66,7 @@ https://qiita.com/kurironight
 - ITパスポート（情報工学出身ではない為，キタミ式の教科書を用いて基礎を勉強中）
 - JavaScript（インターン先で利用した為，自分で勉強）
 - AWS(EC2インスタンス等を利用してインフラ周りを勉強)
-- Blender(ゼミでのモデル発表に利用できれば)
+- Docker(環境構築を楽にしたい)
 
 ## 連絡先
 - twitter [@hatenosuke](https://twitter.com/hatenosuke)
