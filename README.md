@@ -49,7 +49,7 @@ https://qiita.com/kurironight
   - [github](https://github.com/kurironight/VRcyclegame)
 - Supertitech
 [homepage](https://newsupertitech.herokuapp.com/login)
-  - 試しのログイン用account (user:guest, pw:titech)
+  - 試しのログイン用account (user:guest, pw:titech)（herokuを利用している為，起動時に少々時間がかかります．）
   - バイト先にてwebアプリを作成する予定の為，勉強がてら友達と作成
   - 大学における講義の時間割管理webアプリ．
   - SNS形式でそれぞれの講義に関してのレビューを掲示板に貼ることが出来る.また、過去問などのファイルも共有できる.
