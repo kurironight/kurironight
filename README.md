@@ -64,7 +64,7 @@ https://qiita.com/kurironight
 
 ## 学習中
 - ITパスポート（情報工学出身ではない為，キタミ式の教科書を用いて基礎を勉強中）
-- JavaScript（インターン先で利用した為，自分で勉強）
+- JavaScript（インターン先で利用した為，自分で勉強．React Nativeを使ってyoutubeアプリみたいなのを作成してみたい）
 - AWS(EC2インスタンス等を利用してインフラ周りを勉強)
 - Docker(環境構築を楽にしたい)
 
