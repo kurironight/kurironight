@@ -66,6 +66,3 @@ https://qiita.com/kurironight
 - ITパスポート（情報工学出身ではない為，キタミ式の教科書を用いて基礎を勉強中）
 - JavaScript（インターン先で利用した為，自分で勉強．React Nativeを使ってyoutubeアプリみたいなのを作成してみたい）
 - AWS(EC2インスタンス等を利用してインフラ周りを勉強)
-
-## 連絡先
-- twitter [@hatenosuke](https://twitter.com/hatenosuke)
