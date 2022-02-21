@@ -41,7 +41,7 @@ https://qiita.com/kurironight
 - 英語スキル
   - TOEIC L&R スコア 875 取得（2019年3月）
   - TOEFL iBT スコア 93 取得（2019年3月）
-## 趣味制作物
+## 趣味・制作物
 - 障害物を避け続けるスマホ向けVRゲーム
   - 自転車にのり、身体を傾けることで車を避け続けるミニゲーム
   - 部内配布の為，配布はしていないです．
@@ -66,7 +66,6 @@ https://qiita.com/kurironight
 - ITパスポート（情報工学出身ではない為，キタミ式の教科書を用いて基礎を勉強中）
 - JavaScript（インターン先で利用した為，自分で勉強．React Nativeを使ってyoutubeアプリみたいなのを作成してみたい）
 - AWS(EC2インスタンス等を利用してインフラ周りを勉強)
-- Docker(環境構築を楽にしたい)
 
 ## 連絡先
 - twitter [@hatenosuke](https://twitter.com/hatenosuke)
